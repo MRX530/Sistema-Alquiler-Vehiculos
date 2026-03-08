@@ -1,10 +1,10 @@
-# 🚗 Sistema RentaCar — Equipo 7
+# Sistema RentaCar — Equipo 7
 
 Sistema de alquiler de vehiculos desarrollado en Java con Spring Boot y React.
 
 ---
 
-## 👥 Integrantes y Modulos
+## Integrantes y Modulos
 
 | Modulo | Integrante | Responsabilidad |
 |--------|-----------|-----------------|
@@ -16,7 +16,7 @@ Sistema de alquiler de vehiculos desarrollado en Java con Spring Boot y React.
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 RentaCar-Equipo7/
@@ -66,7 +66,7 @@ RentaCar-Equipo7/
 
 ---
 
-## 🚀 Como correr el proyecto
+##  Como correr el proyecto
 
 ### Backend (Spring Boot)
 1. Abrir IntelliJ IDEA
@@ -86,7 +86,7 @@ Abrir en el navegador: http://localhost:3000
 
 ---
 
-## ⚙️ Requisitos
+##  Requisitos
 
 - Java JDK 17+
 - IntelliJ IDEA Community
@@ -96,7 +96,7 @@ Abrir en el navegador: http://localhost:3000
 
 ---
 
-## 📌 Reglas del equipo
+## Reglas del equipo
 
 - Cada integrante trabaja **solo en sus archivos**
 - Antes de hacer push, verificar que el codigo **compila sin errores**
@@ -104,7 +104,7 @@ Abrir en el navegador: http://localhost:3000
 
 ---
 
-## 📝 Como subir tus cambios
+## Como subir tus cambios
 
 ```bash
 git add .
